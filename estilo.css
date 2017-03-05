@@ -1,11 +1,13 @@
 
 * {
     color: brown;
-    background-color: darkolivegreen;
-    background-image: url(https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAT7AAAAJGJiNDIwMjg0LTQwMTYtNDM3NS1hZjVkLWVhYTk1NjU4ZmY5OA.jpg);
 }
 h1 {
     color: peru;
 }
- 
+ body{
+     background-color: darkolivegreen;
+    background-image: url(https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAT7AAAAJGJiNDIwMjg0LTQwMTYtNDM3NS1hZjVkLWVhYTk1NjU4ZmY5OA.jpg);
+
+ }
  
