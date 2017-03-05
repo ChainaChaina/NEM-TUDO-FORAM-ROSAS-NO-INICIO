@@ -1,15 +1,29 @@
 
 * {
-    color: red;
-}
-h1 {
-    color: black;
+    color:white;
 }
 body {
     background-color: darkolivegreen;
-    background-image: url("https://scontent.fvix1-1.fna.fbcdn.net/v/t1.0-9/995384_845240272253797_3213522591099626066_n.jpg?oh=f63a833520000ce14ef2837b5275abac&oe=596DD48A");
+    background-image: url("http://wallpapercave.com/wp/Sbu7HYD.jpg");
     background-size: cover;
 }
+    .blur {
+    -webkit-filter: blur(5px);
+    filter: blur(5px);
+    }
+
  .caixa-de-texto {
      text-align: center;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     margin-top: 300px; 
+     border: 20px solid transparent;
+     border-bottom-color:rgba(255, 0, 0, 0.5);
+     -webkit-transition: all 0.3s linear;
+     -moz-transition: all 0.3s linear;
+     transition: all 0.3s linear;
+ }
+
+ .caixa-de-texto:hover{
+     border-bottom-color:rgba(255, 0, 0, 1)
+     
  }
