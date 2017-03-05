@@ -7,7 +7,7 @@ h1 {
 }
  body{
      background-color: darkolivegreen;
-    background-image: url(https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAT7AAAAJGJiNDIwMjg0LTQwMTYtNDM3NS1hZjVkLWVhYTk1NjU4ZmY5OA.jpg);
+    background-image: url("https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAT7AAAAJGJiNDIwMjg0LTQwMTYtNDM3NS1hZjVkLWVhYTk1NjU4ZmY5OA.jpg");
     background-size: cover;
 }
  
