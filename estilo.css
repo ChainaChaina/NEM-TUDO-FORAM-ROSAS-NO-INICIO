@@ -1,13 +1,13 @@
 
 * {
-    color: brown;
+    color: red;
 }
 h1 {
-    color: peru;
+    color: black;
 }
 body {
     background-color: darkolivegreen;
-    background-image: url("https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAT7AAAAJGJiNDIwMjg0LTQwMTYtNDM3NS1hZjVkLWVhYTk1NjU4ZmY5OA.jpg");
+    background-image: url("https://scontent.fvix1-1.fna.fbcdn.net/v/t1.0-9/995384_845240272253797_3213522591099626066_n.jpg?oh=f63a833520000ce14ef2837b5275abac&oe=596DD48A");
     background-size: cover;
 }
  .caixa-de-texto {
