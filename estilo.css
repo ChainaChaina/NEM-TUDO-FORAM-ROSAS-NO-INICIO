@@ -16,7 +16,7 @@ body {
      text-align: center;
      font-family:Georgia, 'Times New Roman', Times, serif;
      margin-top: 300px; 
-     border: 10px dashed red;
+     border:10px dashed red;
      border-color:rgba(255, 0, 0, 1);
      -webkit-transition: all 0.3s linear;
      -moz-transition: all 0.3s linear;
@@ -25,6 +25,7 @@ body {
 
  .caixa-de-texto:hover{ 
      border-color:rgba(255, 0, 0, 1);
+     border-bottom-width: 5px;
 
      
  }
