@@ -1,6 +1,6 @@
 
 * {
-    color: darkmagenta;
+    color: black;
 }
 body {
     background-image: url("https://scontent.fvix2-1.fna.fbcdn.net/v/t1.0-9/11988298_521900991299591_4330694824803243558_n.jpg?oh=74cd6b8ccebc44e3acceceaccd011623&oe=59285EB4");
@@ -11,7 +11,7 @@ body {
      text-align: center;
      font-family:Georgia, 'Times New Roman', Times, serif;
      margin-top: 350px; 
-     border:10px dashed darkblue;
+     border:10px dashed black;
      -webkit-transition: all 0.3s linear;
      -moz-transition: all 0.3s linear;
      transition: all 0.3s linear;
