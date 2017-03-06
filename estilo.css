@@ -16,7 +16,7 @@ body {
      text-align: center;
      font-family:Georgia, 'Times New Roman', Times, serif;
      margin-top: 300px; 
-     border: 30px solid red;
+     border: 10px solid red;
      border-color:rgba(255, 0, 0, 1);
      -webkit-transition: all 0.3s linear;
      -moz-transition: all 0.3s linear;
