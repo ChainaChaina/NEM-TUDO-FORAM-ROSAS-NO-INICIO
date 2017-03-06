@@ -7,11 +7,7 @@ body {
     background-image: url("http://wallpapercave.com/wp/Sbu7HYD.jpg");
     background-size: cover;
 }
-    .blur {
-    -webkit-filter: blur(10px);
-    filter: blur(10px);
-    }
-
+   
  .caixa-de-texto {
      text-align: center;
      font-family:Georgia, 'Times New Roman', Times, serif;
