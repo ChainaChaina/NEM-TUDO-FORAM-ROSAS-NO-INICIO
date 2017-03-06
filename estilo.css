@@ -20,10 +20,9 @@ body {
  .caixa-de-texto:hover{ 
      border-color:rgba(255, 0, 0, 1);
      border-width: 5px;
-h2 {text-align: center;
-}
+h2 { text-align:center;}
 h2:hover{
-    text-align: right
+    text-align: right;
 
 }
 
