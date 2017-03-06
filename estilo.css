@@ -3,7 +3,6 @@
     color:white;
 }
 body {
-    background-color: darkolivegreen;
     background-image: url("http://wallpapercave.com/wp/Sbu7HYD.jpg");
     background-size: cover;
 }
@@ -21,6 +20,12 @@ body {
  .caixa-de-texto:hover{ 
      border-color:rgba(255, 0, 0, 1);
      border-width: 5px;
+h2 {text-align: center;
+}
+h2:hover{
+    text-align: right
+
+}
 
      
  }
