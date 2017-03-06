@@ -1,6 +1,6 @@
 
 * {
-    color: beige;
+    color: darkkhaki;
 }
 body {
     background-image: url("https://scontent.fvix2-1.fna.fbcdn.net/v/t31.0-8/15799962_738048363018185_3347954073041119814_o.jpg?oh=9dd9609bb9b1585055c493124f1e0b7e&oe=59701D56");
@@ -15,6 +15,7 @@ body {
      -webkit-transition: all 0.3s linear;
      -moz-transition: all 0.3s linear;
      transition: all 0.3s linear;
+     background-color: black
  }
 
  .caixa-de-texto:hover{ 
