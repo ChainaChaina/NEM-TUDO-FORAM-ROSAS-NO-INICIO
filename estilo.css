@@ -3,7 +3,7 @@
     color:white;
 }
 body {
-    background-image: url("http://wallpapercave.com/wp/Sbu7HYD.jpg");
+    background-image: url("https://scontent.fvix2-1.fna.fbcdn.net/v/t1.0-9/16508141_760944727395215_7453067919483687953_n.jpg?oh=0fa26d8444210f5df22206468bc21e93&oe=596E5059");
     background-size: cover;
 }
    
@@ -22,8 +22,7 @@ body {
      border-width: 5px;    
  }
 
- h2
- {text-align: center}
+ h3 {text-align: center}
 
  h2:hover:{
       text-align: right;
