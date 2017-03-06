@@ -23,7 +23,7 @@ body {
      transition: all 0.3s linear;
  }
 
- .caixa-de-texto:hover{
+ .caixa-de-texto:hover{ 
      border-color:rgba(255, 0, 0, 1);
 
      
