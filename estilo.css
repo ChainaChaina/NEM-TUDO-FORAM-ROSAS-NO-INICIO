@@ -3,7 +3,7 @@
     color:white;
 }
 body {
-    background-image: url("https://scontent.fvix2-1.fna.fbcdn.net/v/t1.0-9/16508141_760944727395215_7453067919483687953_n.jpg?oh=0fa26d8444210f5df22206468bc21e93&oe=596E5059");
+    background-image: url("https://scontent.fvix2-1.fna.fbcdn.net/v/t1.0-9/11988298_521900991299591_4330694824803243558_n.jpg?oh=74cd6b8ccebc44e3acceceaccd011623&oe=59285EB4");
     background-size: cover;
 }
    
@@ -19,7 +19,7 @@ body {
 
  .caixa-de-texto:hover{ 
      border-color:rgba(255, 0, 0, 1);
-     border-width: 5px;    
+     border-width: 6px;    
  }
 
  h3 {text-align: center}
