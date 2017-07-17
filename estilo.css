@@ -10,7 +10,7 @@ body {
  .caixa-de-texto {
      text-align: center;
      font-family:Georgia, 'Times New Roman', Times, serif;
-     margin-top: 500px; 
+     margin-top: 750px; 
      border:10px dashed blue;
      -webkit-transition: all 0.3s linear;
      -moz-transition: all 0.3s linear;
