@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+}
+
+body > p {
+    font-size: 70px;
+    padding: 120px;
+    margin: 100px;
+    background-color: powderblue;
+    border-left: 100px;
+    border-right: 100px;
+
+}
+
+body > ul > li {
+    color: #f00;
+}
+
+h1 {
+    color: orangered;
+    font-size: 65px;
+    font-family: Brush Script Std, Brush Script MT, cursive;
+    font-style: italic;
+    text-align: center;
+}
+
+#box1, #box2 {
+    background-color: red;
+    display: inline-block;
+    margin: 50px;
+}
+
+#box1 {
+    height: 450px;
+    width: 50%;
+    font-size: 70px;
+}
+
+#box2 {
+    height: 450px;
+    width: 50%;
+    font-size: 70px;
+}
