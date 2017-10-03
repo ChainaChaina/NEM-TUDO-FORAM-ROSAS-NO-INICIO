@@ -1,7 +1,7 @@
 body {
-    background-image: url("https://scontent.fvix1-1.fna.fbcdn.net/v/t31.0-8/13403855_1718860601716585_2722666506606744385_o.jpg?oh=44146aeb05ddd8256392e9f2aee46ff1&oe=5A4E2639"); 
+    background-image: url("https://scontent.fvix1-1.fna.fbcdn.net/v/t31.0-8/22181588_1949818178620825_6832888060431074929_o.jpg?oh=3f0babefc518b95c76e5ca4b25bd4794&oe=5A837848"); 
     background-size: cover;
-    text-align:left ;
+    text-align:center ;
     margin: 80px;
 }
  
@@ -18,17 +18,19 @@ body > p {
 
 
 h1 {
-    color:floralwhite;
+    color:black;
     font-size: 80px;
     font-style: italic;
     text-align: center;
 }
 
 #box1, #box2 {
-    background-color: rgba(40, 30, 30, 0.5);
+    background-color: rgba(40, 30, 30, 0.35);
     display: inline-block;
     align-content:center;
-    color: floralwhite;
+    color: black;
+    margin-left: 700px;
+   
     
     
 }
@@ -37,12 +39,19 @@ h1 {
     height: 250px;
     width: 50%;
     font-size: 50px;
+    background-image: url("http://www.gifsgratis.com.br/gifs/fogo/fogos-de-artificio/222.gif");
+    background-size:center;
+    background-repeat: no-repeat;
+    background-origin: center;
+    text-shadow: 2px 2px white;
 }
 
 #box2 {
-    height: 250px;
+    height: 400px;
     width: 50%;
     font-size: 50px;
+    text-shadow: 2px 2px white;
+    
 }
 
 #link{
